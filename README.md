@@ -5,7 +5,7 @@
 ### A) Using Conda in Terminal
 
 ```bash
-conda create -f environment.yml
+conda env create -f environment.yml
 ```
 This creates a new conda environment called `gifmaker` and install the necessary packages. If you would like to change the name, change the first line in the file environment.yml.
 
