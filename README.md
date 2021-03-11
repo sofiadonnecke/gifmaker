@@ -8,6 +8,7 @@
 conda env create -f environment.yml
 ```
 This creates a new conda environment called `gifmaker` and install the necessary packages. If you would like to change the name, change the first line in the file environment.yml.
+To activate and deactivate your virtual environment use `conda activate gifmaker` and `conda deactivate`.
 
 ### B) Using Anaconda Navigator
 Open Anaconda Navigator and click on Environments on the left panel.
