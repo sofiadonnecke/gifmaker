@@ -16,7 +16,7 @@ Click on import, add name and select environments.yml from the file browser.
 ![step_4](images/step_4.png)
 
 ### C) Using Pip
-Once you have created virtual environemnt, you can install all the required packages using
+Once you have created virtual environment using `virtualenv`, you can install all the required packages using
 ```
 pip install -r requirements.txt
 ```
