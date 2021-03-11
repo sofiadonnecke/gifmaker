@@ -17,12 +17,12 @@ Click on import, add name and select environments.yml from the file browser.
 
 ### C) Using Pip
 Once you have created virtual environemnt, you can install all the required packages using
-'''
+```
 pip install -r requirements.txt
 ```
 ## Get coding
 Import your data and launch the jupyter notebook.
-'''
+```
 jupyter notebook
-'''
+```
 or select the jupyter notebook button in the Anaconda interface to open the notebook. 
