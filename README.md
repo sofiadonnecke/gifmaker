@@ -1,7 +1,7 @@
 # Making GIFs with python
 
 ## Installation
-Ensure you have anaconda or miniconda installed by typing `conda --version` in the terminal. If you need to install miniconda, head to https://docs.conda.io/en/latest/miniconda.html
+To make your virtual environment, ensure you have anaconda or miniconda installed by typing `conda --version` in the terminal. If you need to install miniconda, head to https://docs.conda.io/en/latest/miniconda.html
 
 ### A) Using Conda in Terminal
 
