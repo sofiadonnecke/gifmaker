@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## Get coding
-Import your excel data to the directory and launch the jupyter notebook.
+Import your excel data to the directory and launch the jupyter notebook from the terminal or Anaconda.
 ```
 jupyter notebook
 ```
